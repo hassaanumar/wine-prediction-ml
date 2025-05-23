@@ -1,2 +1,8 @@
-# wine-prediction-ml
-A machine learning project that predicts the quality of wine based on physicochemical properties using Python and Scikit-learn. Includes data preprocessing, model training, and performance evaluation.
+Wine Quality Predictor
+
+This project uses machine learning to predict wine quality based on features like pH, alcohol content, and acidity. Built with Python, Scikit-learn, and Google Colab.
+
+Features:
+Data analysis and visualization
+Model training (Random Forest, Logistic Regression)
+Evaluation with accuracy, confusion matrix, and ROC curve
